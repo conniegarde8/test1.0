@@ -1,0 +1,10 @@
+{
+    "display_name": "简略示例插件",
+    "loading_order": 110,
+    "requires": [],
+    "optional": [],
+    "js": "index.js",
+    "css": "style.css",
+    "author": "Your Name",
+    "version": "1.0.0"
+}
