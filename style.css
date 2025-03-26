@@ -1,0 +1,9 @@
+/* 可选：为新按钮添加样式 */
+#simple_openai_button {
+    cursor: pointer; /* 让鼠标悬停时显示为指针 */
+}
+
+.simple_claude_button {
+    /* 可选：为每条消息上的按钮添加样式 */
+    margin-left: 4px; /* 与其他按钮保持一点距离 */
+}
